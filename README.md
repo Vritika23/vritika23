@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🚀 Project Name
 
-<!--
-**Vritika23/vritika23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, responsive frontend web application built with [Your Tech Stack] — showcasing clean UI, accessibility, and performance.
 
-Here are some ideas to get you started:
+## 📸 Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Live Demo Link](https://your-live-site.com)  
+![Screenshot](./screenshot.png)
+
+## 🛠️ Features
+
+- ⚡ Fast and responsive design
+- 🎨 Clean UI with reusable components
+- 🌙 Dark/light theme (if any)
+- 📱 Mobile-first layout
+- ♿ Accessibility focused (ARIA, semantic HTML)
+
+## 🔧 Tech Stack
+
+- **Framework**: React / Next.js / Vue / Vanilla JS
+- **Styling**: Tailwind CSS / SCSS / CSS Modules
+- **Other**: Axios / Framer Motion / Lottie / Vite / etc.
+
+## 📁 Project Structure
