@@ -24,7 +24,7 @@
 <text x="160" y="90" font-size="44" font-weight="800" fill="#e6e6ef">Hi, I'm <tspan fill="url(#nameGrad)">Vritika Dadhich</tspan></text>
 <text x="160" y="128" font-size="24" fill="#9a9aab" font-weight="500">Aspiring Software Engineer</text>
 
-<text x="160" y="165" font-size="16" fill="#9a9aab">📍 India &#160;&#160;|&#160;&#160; 🎓 B.Tech AI &amp; Data Science &#160;&#160;|&#160;&#160; 💼 Open to Opportunities</text>
+<text x="160" y="165" font-size="16" fill="#9a9aab">📍 Udaipur &#160;&#160;|&#160;&#160; 🎓 B.Tech AI &amp; Data Science &#160;&#160;|&#160;&#160; 💼 Open to Opportunities</text>
 
 <rect x="1306" y="55" width="170" height="34" rx="17" fill="#12121a" stroke="#23232e"/>
 <text x="1391" y="77" font-size="14" fill="#9a9aab" text-anchor="middle">👁 Profile Views</text>
