@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg(1)" alt="Vritika Dadhich - Profile Banner" width="100%" />
+  <img src="./assets/profile-banner(1).svg" alt="Vritika Dadhich - Profile Banner" width="100%" />
 </p>
 
 <p align="center">
